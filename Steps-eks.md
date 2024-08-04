@@ -30,7 +30,6 @@ IAMFullAccess
 Attach this policy to your user as well
 
 ![Policies To Attach](https://github.com/jaiswaladi246/EKS-Complete/blob/main/Policies.png)
-![Policies To Attach](https://github.com/HackBugs/Picture-repo/blob/main/Key-of-Success.jpg)
 
 # AWSCLI
 
